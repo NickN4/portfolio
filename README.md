@@ -1,7 +1,7 @@
-# portfolio
+# Portfolio
 
 ## Description
-Horiseon is a marketing company that needed help improving their existing codes, to make it more accessible and optimized for search engines. Through this project, the codebase was improved for long-term sustainability.
+This is my Portfolio that I created from scratch and I will be continuing to add more information to it as I go. It has some basic information about me and it has my contact information as well.
 
 ## Table of Contents
 * [Preview](#Preview)
